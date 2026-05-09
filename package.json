@@ -2,7 +2,7 @@
   "name": "wakametube",
   "version": "1.0.8",
   "main": "server.js",
-  "license": "CC-BY-4.0",
+  "license": "Unlicense",
   "dependencies": {
     "express": "^4.21.2",
     "compression": "^1.8.0",
