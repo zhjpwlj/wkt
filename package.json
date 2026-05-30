@@ -19,8 +19,9 @@
   },
   "description": "wakame",
   "engines": {
-    "node": "20.x"
-  },
+     "node": "22.x"
+   }
+
   "author": "wakame02",
   "bugs": {
     "email": "23h11008@gmail.com"
